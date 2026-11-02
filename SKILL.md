@@ -1,6 +1,7 @@
 ---
 name: seo-geo
 description: Search engine optimisation (SEO) and generative engine optimisation (GEO, being cited by ChatGPT, Perplexity, Claude, Gemini and Google AI Overviews) for any website. Use when writing or reviewing a page, article or product page; choosing titles, meta descriptions, slugs or internal links; planning a topic cluster or semantic cocoon; setting up or checking canonical, hreflang, Open Graph, structured data (JSON-LD), sitemaps, robots.txt, llms.txt, IndexNow or AI crawler rules; or auditing a site's SEO and AI visibility.
+license: CC-BY-4.0
 metadata:
   author: Geoffrey Crofte
   version: "1.1.0"

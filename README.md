@@ -126,6 +126,10 @@ claude plugin eval .                      # with and without the skill, to measu
 - Laurent Bourrelly's semantic cocoon method.
 - Community skills that inspired the scope, without copying them: [agricidaniel/claude-seo](https://claudemarketplaces.com/skills/agricidaniel/claude-seo/seo-geo) (AI crawler access, quotable passages, llms.txt) and [infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills) (AI-readiness audit).
 
+## Licence
+
+[CC BY 4.0](LICENSE): you may share and adapt this skill, including commercially, as long as you credit Geoffrey Crofte and link to this repository.
+
 ## Author
 
 [Geoffrey Crofte](https://github.com/geoffreycrofte)

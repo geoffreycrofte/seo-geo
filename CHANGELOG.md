@@ -6,6 +6,10 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
+### Added
+
+- Licence: CC BY 4.0 (`LICENSE`, `license` in `SKILL.md` and `plugin.json`).
+
 ## [1.1.0] - 2026-11-02
 
 ### Added

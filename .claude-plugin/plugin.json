@@ -9,5 +9,16 @@
   },
   "homepage": "https://github.com/geoffreycrofte/seo-geo",
   "repository": "https://github.com/geoffreycrofte/seo-geo",
-  "keywords": ["seo", "geo", "generative-engine-optimization", "llms-txt", "structured-data", "json-ld", "hreflang", "ai-crawlers", "audit"]
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "seo",
+    "geo",
+    "generative-engine-optimization",
+    "llms-txt",
+    "structured-data",
+    "json-ld",
+    "hreflang",
+    "ai-crawlers",
+    "audit"
+  ]
 }
