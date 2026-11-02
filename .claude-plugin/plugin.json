@@ -20,5 +20,6 @@
     "hreflang",
     "ai-crawlers",
     "audit"
-  ]
+  ],
+  "icon": "./.claude-plugin/icon.png"
 }

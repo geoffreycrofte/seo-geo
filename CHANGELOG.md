@@ -9,6 +9,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 ### Added
 
 - Licence: CC BY 4.0 (`LICENSE`, `license` in `SKILL.md` and `plugin.json`).
+- Plugin icon (`.claude-plugin/icon.png`, source in `icon.svg`).
 
 ## [1.1.0] - 2026-11-02
 
