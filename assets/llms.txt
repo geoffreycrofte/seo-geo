@@ -1,0 +1,15 @@
+# Example Coffee
+
+> Independent, first-hand guides to home espresso: choosing and using grinders and machines, written by a barista with 10 years of practice. In English and French.
+
+All guides are free and ad-free; affiliate links are disclosed on each page. Contact: hello@example.com.
+
+## Guides
+- [Choosing a burr grinder](https://example.com/guides/burr-grinder/): burr types, grind range and the three models tested for a year.
+- [Dialling in espresso](https://example.com/guides/dial-in/): a step-by-step method to adjust dose, grind and time.
+
+## Reference
+- [Glossary](https://example.com/glossary/): short definitions of espresso terms.
+
+## Optional
+- [Blog](https://example.com/blog/): news and opinion pieces that a model can skip when short on context.

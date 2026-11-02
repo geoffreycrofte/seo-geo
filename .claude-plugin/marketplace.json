@@ -1,0 +1,17 @@
+{
+  "name": "geoffreycrofte",
+  "description": "Claude Code skills by Geoffrey Crofte.",
+  "owner": {
+    "name": "Geoffrey Crofte",
+    "url": "https://github.com/geoffreycrofte"
+  },
+  "plugins": [
+    {
+      "name": "seo-geo",
+      "source": "./",
+      "description": "SEO and generative engine optimisation (GEO) for any website: content, internal linking, technical SEO, structured data, AI crawlers, llms.txt and audits.",
+      "category": "marketing",
+      "tags": ["seo", "geo", "llms-txt", "structured-data"]
+    }
+  ]
+}
