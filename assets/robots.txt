@@ -1,0 +1,23 @@
+# robots.txt template. Pick ONE policy, delete the other, and record the
+# owner's decision in docs/seo.md. Check bot names against the vendors'
+# documentation first (see references/ai-crawlers.md).
+
+# --- Policy A: allow everything (best for being cited) ----------------------
+User-agent: *
+Allow: /
+
+# --- Policy B: refuse model training, stay citable by AI search -------------
+# User-agent: GPTBot
+# User-agent: ClaudeBot
+# User-agent: Google-Extended
+# User-agent: CCBot
+# User-agent: Applebot-Extended
+# Disallow: /
+#
+# User-agent: *
+# Allow: /
+
+# Pages that must stay out of the index need a noindex tag, not a Disallow
+# here (a blocked crawler cannot see the noindex).
+
+Sitemap: https://example.com/sitemap.xml

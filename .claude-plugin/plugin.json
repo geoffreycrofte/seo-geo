@@ -1,0 +1,24 @@
+{
+  "name": "seo-geo",
+  "displayName": "SEO & GEO",
+  "version": "1.1.0",
+  "description": "SEO and generative engine optimisation (GEO) for any website: content, internal linking, technical SEO, structured data, AI crawlers, llms.txt and audits.",
+  "author": {
+    "name": "Geoffrey Crofte",
+    "url": "https://github.com/geoffreycrofte"
+  },
+  "homepage": "https://github.com/geoffreycrofte/seo-geo",
+  "repository": "https://github.com/geoffreycrofte/seo-geo",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "seo",
+    "geo",
+    "generative-engine-optimization",
+    "llms-txt",
+    "structured-data",
+    "json-ld",
+    "hreflang",
+    "ai-crawlers",
+    "audit"
+  ]
+}
