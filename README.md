@@ -35,6 +35,12 @@ It also keeps **project memory**: it reads (or creates) `docs/seo.md` in your pr
 ### Claude Code: as a plugin (recommended)
 
 ```text
+/plugin install seo-geo --marketplace geoffreycrofte/seo-geo
+```
+
+On Claude Code versions older than 2.1.275, add the marketplace first:
+
+```text
 /plugin marketplace add geoffreycrofte/seo-geo
 /plugin install seo-geo@geoffreycrofte
 ```

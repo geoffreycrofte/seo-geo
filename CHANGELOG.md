@@ -6,6 +6,10 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
+### Changed
+
+- README: one-step plugin install (`/plugin install seo-geo --marketplace geoffreycrofte/seo-geo`), with the two-step form kept for Claude Code versions older than 2.1.275.
+
 ## [1.2.0] - 2026-11-02
 
 ### Added
