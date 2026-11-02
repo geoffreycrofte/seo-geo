@@ -6,9 +6,12 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-11-02
+
 ### Added
 
 - Licence: CC BY 4.0 (`LICENSE`, `license` in `SKILL.md` and `plugin.json`).
+- Plugin icon (`.claude-plugin/icon.png`, source in `icon.svg`).
 
 ## [1.1.0] - 2026-11-02
 
@@ -36,6 +39,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 - First version of the `seo-geo` skill: workflow, technical foundations, multilingual sites, discovery (sitemaps, Search Console, IndexNow), content and E-E-A-T, semantic cocoon, GEO, `llms.txt`, AI crawlers, structured data, Open Graph, audit commands, and how to stay current.
 
-[Unreleased]: https://github.com/geoffreycrofte/seo-geo/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/geoffreycrofte/seo-geo/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/geoffreycrofte/seo-geo/compare/v1.1.0...v1.2.0
 [1.1.0]: https://github.com/geoffreycrofte/seo-geo/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/geoffreycrofte/seo-geo/releases/tag/v1.0.0

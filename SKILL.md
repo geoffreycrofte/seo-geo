@@ -4,7 +4,7 @@ description: Search engine optimisation (SEO) and generative engine optimisation
 license: CC-BY-4.0
 metadata:
   author: Geoffrey Crofte
-  version: "1.1.0"
+  version: "1.2.0"
   last-reviewed: "2026-11"
 ---
 
